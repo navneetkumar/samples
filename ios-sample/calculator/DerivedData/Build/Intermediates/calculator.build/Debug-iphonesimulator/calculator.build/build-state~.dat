@@ -1,0 +1,362 @@
+Tcalculator
+v6
+r1
+cCheck dependencies
+cProcessPCH /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch calculator/calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator normal i386
+cCopyStringsFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings calculator/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets
+cProcessInfoPlistFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist
+cGenerateDSYMFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator
+cTouch /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c00000000525642F10000000000000176
+t1381384945
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c000000005283308500000000000003B5
+t1384329349
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005283308C00000000000001A0
+t1384329356
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005283308E0000000000445870
+t1384329358
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000052833090000000000088C680
+t1384329360
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000528330940000000001DB9910
+t1384329364
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c00000000528330DC0000000000000AC9
+t1384329436
+s2761
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch
+t1385032132
+s108840
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o
+t1385032132
+s65288
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o
+t1385032132
+s41068
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/calculator.LinkFileList
+c00000000528DE9C30000000000000215
+t1385032131
+s533
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o
+t1385032132
+s3712
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_dependencies.txt
+t1385032134
+s476
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_generated_info.plist
+t1385032134
+s525
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app
+t1385032134
+s306
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM
+t2
+s0
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Base.lproj/Main.storyboardc
+t1385032132
+s170
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist
+t1385032134
+s982
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/PkgInfo
+t1385032134
+s8
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator
+t1385032132
+s17144
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings
+t1385032132
+s42
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m
+c00000000528DE98700000000000007DF
+t1385032071
+s2015
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard
+c00000000528DE9870000000000000630
+t1385032071
+s1584
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets
+c00000000528DE9870000000000000088
+t1385032071
+s136
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m
+c00000000528DE98700000000000001F5
+t1385032071
+s501
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist
+c00000000528DE9B90000000000000493
+t1385032121
+s1171
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Prefix.pch
+c00000000528DE9870000000000000158
+t1385032071
+s344
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/en.lproj/InfoPlist.strings
+c00000000528DE987000000000000002D
+t1385032071
+s45
+
+N/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m
+c00000000528DE9870000000000000159
+t1385032071
+s345
+
+CBuild AST from /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m
+r0
+
+CBuild AST from /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m
+r0
+
+CBuild AST from /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies6d74be43213eb841^57e8c743213eb841^---0#1#1#--18"Check dependencies36"104A7DDA-5E0D-4FA3-A7D2-05447FB0F59D-
+
+CCompileAssetCatalog /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets
+s406724932.842911
+e406724934.162826
+r1
+xCompileAssetCatalog
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/LaunchImage-700-568h@2x.png
+o/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Assets.car
+o/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/calculator.app calculator/Images.xcassets110"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/calculator.app calculator/Images.xcassetsc5e2d744213eb841^768c2b46213eb841^-504"/* com.apple.actool.compilation-results *//Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/LaunchImage-700-568h@2x.png/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Assets.car/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@91"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets/0000000000000000^1376"CompileAssetCatalog DerivedData/Build/Products/Debug-iphonesimulator/calculator.app calculator/Images.xcassets    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device iphone --compress-pngs --compile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Images.xcassets36"7F112705-071F-451C-BC67-132372B4780B-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406724932.677682
+e406724932.759248
+r1
+xCompileC
+xDerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m223"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler49a0ad44213eb841^1c60c244213eb841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m0000000000000000^4227"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o calculator/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-generated-files.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-own-target-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-all-target-headers.hmap -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-project-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources/i386 -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources -F/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch -MMD -MT dependencies -MF /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.dia -c /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.m -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o36"81CDA15C-EFB6-4A17-A97F-43F08668EBE3-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406724932.677298
+e406724932.747226
+r1
+xCompileC
+xDerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m229"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7287ad44213eb841^994abf44213eb841^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m0000000000000000^4245"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o calculator/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-generated-files.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-own-target-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-all-target-headers.hmap -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-project-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources/i386 -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources -F/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch -MMD -MT dependencies -MF /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.dia -c /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/ViewController.m -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o36"DD98BFB6-4F09-415D-976A-BCBC3471A120-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CCompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406724932.677968
+e406724932.717841
+r1
+xCompileC
+xDerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m209"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf1b7ad44213eb841^e3c4b744213eb841^---0#0#1#-19%DVTDocumentLocation2@81"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m0000000000000000^4185"CompileC DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o calculator/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-generated-files.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-own-target-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-all-target-headers.hmap -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-project-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources/i386 -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources -F/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator -include /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch -MMD -MT dependencies -MF /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.dia -c /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/main.m -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o36"E1DE138A-DB73-4A21-B1C1-670C30BF40DD-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CCompileStoryboard /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard
+s406724932.842369
+e406724932.977561
+r1
+xCompileStoryboard
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection55"CompileStoryboard calculator/Base.lproj/Main.storyboard55"CompileStoryboard calculator/Base.lproj/Main.storyboard12c2d744213eb841^0742fa44213eb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard0000000000000000^990"CompileStoryboard calculator/Base.lproj/Main.storyboard    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Base.lproj/Main.storyboardc /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/Base.lproj/Main.storyboard36"D8BED8D7-5355-44DE-958A-C7E280E0748D-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CCopyStringsFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings calculator/en.lproj/InfoPlist.strings
+s406724932.842131
+e406724932.843770
+r1
+xCopyStringsFile
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings
+xcalculator/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Copy calculator/en.lproj/InfoPlist.strings144"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings calculator/en.lproj/InfoPlist.stringsc6bfd744213eb841^8e02d844213eb841^---0#0#1#-19%DVTDocumentLocation2@101"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/en.lproj/InfoPlist.strings0000000000000000^741"CopyStringsFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj/InfoPlist.strings calculator/en.lproj/InfoPlist.strings    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/en.lproj -- calculator/en.lproj/InfoPlist.strings36"9075F32C-A0DF-447C-B23D-C8A6D612D472-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CGenerateDSYMFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator
+s406724934.165976
+e406724934.213188
+r1
+xGenerateDSYMFile
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Generate /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM160"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator42992a46213eb841^af933646213eb841^---0#0#1#-19%DVTDocumentLocation2@132"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM0034d834deffdf42^857"GenerateDSYMFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app.dSYM36"6235B9A6-602F-4B42-A7D4-9FE82A808898-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CLd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator normal i386
+s406724932.760024
+e406724932.840956
+r1
+xLd
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator
+xnormal
+xi386
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/calculator.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/ViewController.o
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/AppDelegate.o
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection136"Link /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator89"Ld DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator normal i38672a5c244213eb841^5e63d744213eb841^---0#0#1#--1675"Ld DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator normal i386    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator -F/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator -filelist /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/calculator.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/Objects-normal/i386/calculator_dependency_info.dat -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/calculator36"6990CEBB-69CC-4D21-8FDA-BECB7857C3EC-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CProcessInfoPlistFile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist
+s406724934.163471
+e406724934.165296
+r1
+xProcessInfoPlistFile
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"Process /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist128"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist calculator/calculator-Info.plistc4ec2946213eb841^92912b46213eb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist0000000000000000^1123"ProcessInfoPlistFile DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist calculator/calculator-Info.plist    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Info.plist -genpkginfo /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/assetcatalog_generated_info.plist -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app/Info.plist36"36663E7D-15E5-4F83-87C9-6444FB91916B-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CProcessPCH /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch calculator/calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s406724931.782093
+e406724932.676517
+r1
+xProcessPCH
+x/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch
+xcalculator/calculator-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Precompile calculator/calculator-Prefix.pch235"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch calculator/calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7461c843213eb841^cf30ad44213eb841^---0#0#1#-19%DVTDocumentLocation2@96"file:///Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Prefix.pch0000000000000000^4070"ProcessPCH DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch calculator/calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-generated-files.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-own-target-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-all-target-headers.hmap -iquote /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/calculator-project-headers.hmap -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources/i386 -I/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/calculator.build/Debug-iphonesimulator/calculator.build/DerivedSources -F/Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.dia -MMD -MT dependencies -MF /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.d -c /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/calculator/calculator-Prefix.pch -o /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Intermediates/PrecompiledHeaders/calculator-Prefix-aypzmzazwwsceaabgpftayrvaoxh/calculator-Prefix.pch.pch36"8F540BEB-1554-4F8A-9756-F0DA81C3D09D-
+bC0371FE6-3A19-4119-9501-D83B91251ADA
+
+CProcessPCH /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/calculator/Index/PrecompiledHeaders/calculator-Prefix-dewaxypfegizmpftlcqxmbyaufrv_ast/calculator-Prefix.pch.pch calculator/calculator-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/nkumar/Desktop/Dev-drive/bluejeans/a2m/calculator/DerivedData/Build/Products/Debug-iphonesimulator/calculator.app
+r0
+
