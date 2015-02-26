@@ -1,0 +1,3 @@
+[submodule "git-sample/mysubmodule"]
+	path = git-sample/mysubmodule
+	url = /Users/nkumar/Desktop/Dev-Drive/samples/git-sample/remote1
