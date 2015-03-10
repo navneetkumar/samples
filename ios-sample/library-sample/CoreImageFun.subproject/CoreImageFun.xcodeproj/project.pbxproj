@@ -21,7 +21,32 @@
 		35FF5DEA160BB7F700887D3E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35FF5DE9160BB7F700887D3E /* ViewController.m */; };
 		35FF5DF1160BBBED00887D3E /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 35FF5DF0160BBBED00887D3E /* CoreImage.framework */; };
 		35FF5DF3160BBC0500887D3E /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 35FF5DF2160BBC0500887D3E /* image.png */; };
+		3816799D1AAFA6B300F2C812 /* libImageFilters.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 381679981AAFA67A00F2C812 /* libImageFilters.a */; };
 /* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		381679971AAFA67A00F2C812 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 384E51CE1A9F9E190067C2B4;
+			remoteInfo = ImageFilters;
+		};
+		381679991AAFA67A00F2C812 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 384E51D91A9F9E190067C2B4;
+			remoteInfo = ImageFiltersTests;
+		};
+		3816799B1AAFA69400F2C812 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 384E51CD1A9F9E190067C2B4;
+			remoteInfo = ImageFilters;
+		};
+/* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		35A47F8A160BC48700CB8EB9 /* AssetsLibrary.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AssetsLibrary.framework; path = System/Library/Frameworks/AssetsLibrary.framework; sourceTree = SDKROOT; };
@@ -43,6 +68,7 @@
 		35FF5DE9160BB7F700887D3E /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		35FF5DF0160BBBED00887D3E /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
 		35FF5DF2160BBC0500887D3E /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = ImageFilters.xcodeproj; path = ImageFilters/ImageFilters.xcodeproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3816799D1AAFA6B300F2C812 /* libImageFilters.a in Frameworks */,
 				35A47F8B160BC48700CB8EB9 /* AssetsLibrary.framework in Frameworks */,
 				35FF5DF1160BBBED00887D3E /* CoreImage.framework in Frameworks */,
 				35FF5DCE160BB7F700887D3E /* UIKit.framework in Frameworks */,
@@ -64,6 +91,7 @@
 		35FF5DBE160BB7F700887D3E = {
 			isa = PBXGroup;
 			children = (
+				381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */,
 				35FF5DD3160BB7F700887D3E /* CoreImageFun */,
 				35FF5DCC160BB7F700887D3E /* Frameworks */,
 				35FF5DCA160BB7F700887D3E /* Products */,
@@ -118,6 +146,15 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		381679921AAFA67A00F2C812 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				381679981AAFA67A00F2C812 /* libImageFilters.a */,
+				3816799A1AAFA67A00F2C812 /* ImageFiltersTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,6 +169,7 @@
 			buildRules = (
 			);
 			dependencies = (
+				3816799C1AAFA69400F2C812 /* PBXTargetDependency */,
 			);
 			name = CoreImageFun;
 			productName = CoreImageFun;
@@ -157,12 +195,35 @@
 			mainGroup = 35FF5DBE160BB7F700887D3E;
 			productRefGroup = 35FF5DCA160BB7F700887D3E /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 381679921AAFA67A00F2C812 /* Products */;
+					ProjectRef = 381679911AAFA67A00F2C812 /* ImageFilters.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				35FF5DC8160BB7F700887D3E /* CoreImageFun */,
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXReferenceProxy section */
+		381679981AAFA67A00F2C812 /* libImageFilters.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libImageFilters.a;
+			remoteRef = 381679971AAFA67A00F2C812 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		3816799A1AAFA67A00F2C812 /* ImageFiltersTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = ImageFiltersTests.xctest;
+			remoteRef = 381679991AAFA67A00F2C812 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
 		35FF5DC7160BB7F700887D3E /* Resources */ = {
@@ -192,6 +253,14 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3816799C1AAFA69400F2C812 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = ImageFilters;
+			targetProxy = 3816799B1AAFA69400F2C812 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		35FF5DD6160BB7F700887D3E /* InfoPlist.strings */ = {
