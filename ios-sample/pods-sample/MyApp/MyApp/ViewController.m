@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <CocoaLumberjack/CocoaLumberjack.h>
 
 @interface ViewController ()
 
@@ -16,6 +17,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    [DDLog addLogger:[DDASLLogger sharedInstance]];
+    [DDLog addLogger:[DDTTYLogger sharedInstance]];
+    
+    DDLogVerbose(@"hi");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
