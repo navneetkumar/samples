@@ -59,6 +59,8 @@
 
 #import <Foundation/Foundation.h>
 
+static NSString *MyVersion = @"1";
+
 // Disable legacy macros
 #ifndef DD_LEGACY_MACROS
     #define DD_LEGACY_MACROS 0
