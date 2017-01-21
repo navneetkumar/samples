@@ -1,5 +1,5 @@
 //
-//  FailedBankInfo.h
+//  FailedBankAbstract.h
 //  FailedBankCD
 //
 //  Created by Navneet Kumar on 11/06/15.
@@ -8,11 +8,10 @@
 
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
-#import "FailedBankAbstract.h"
 
 
-@interface FailedBankInfo : FailedBankAbstract
+@interface FailedBankAbstract : NSManagedObject
 
-@property (nonatomic, retain) NSString * city;
+@property (nonatomic, retain) NSString * country;
 
 @end

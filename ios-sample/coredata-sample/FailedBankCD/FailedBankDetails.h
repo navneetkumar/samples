@@ -2,20 +2,17 @@
 //  FailedBankDetails.h
 //  FailedBankCD
 //
-//  Created by Adam Burkepile on 3/23/12.
-//  Copyright (c) 2012 Adam Burkepile. All rights reserved.
+//  Created by Navneet Kumar on 11/06/15.
+//  Copyright (c) 2015 Adam Burkepile. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import <CoreData/CoreData.h>
+#import "FailedBankInfo.h"
 
-@class FailedBankInfo;
 
-@interface FailedBankDetails : NSManagedObject
+@interface FailedBankDetails : FailedBankInfo
 
-@property (nonatomic, retain) NSNumber * zip;
-@property (nonatomic, retain) NSDate * closeDate;
-@property (nonatomic, retain) NSDate * updateDate;
-@property (nonatomic, retain) FailedBankInfo *info;
+@property (nonatomic, retain) NSString * area;
 
 @end

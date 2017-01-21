@@ -24,17 +24,14 @@
     FailedBankInfo *failedBankInfo = [NSEntityDescription
                                       insertNewObjectForEntityForName:@"FailedBankInfo"
                                       inManagedObjectContext:context];
-    failedBankInfo.name = @"Test Bank";
-    failedBankInfo.city = @"Testville";
-    failedBankInfo.state = @"Testland";
+
+    failedBankInfo.city = @"Bangalore";
+    failedBankInfo.country = @"India";
     FailedBankDetails *failedBankDetails = [NSEntityDescription
                                             insertNewObjectForEntityForName:@"FailedBankDetails"
                                             inManagedObjectContext:context];
-    failedBankDetails.closeDate = [NSDate date];
-    failedBankDetails.updateDate = [NSDate date];
-    failedBankDetails.zip = [NSNumber numberWithInt:12345];
-    failedBankDetails.info = failedBankInfo;
-    failedBankInfo.details = failedBankDetails;
+    failedBankDetails.area = @"Muz";
+    failedBankDetails.country = @"USA";
     NSError *error;
     if (![context save:&error]) {
         NSLog(@"Whoops, couldn't save: %@", [error localizedDescription]);
@@ -42,20 +39,18 @@
     
     // Test listing all FailedBankInfos from the store
     NSFetchRequest *fetchRequest = [[NSFetchRequest alloc] init];
-    NSEntityDescription *entity = [NSEntityDescription entityForName:@"FailedBankInfo"
+    NSEntityDescription *entity = [NSEntityDescription entityForName:@"FailedBankDetails"
                                               inManagedObjectContext:context];
     [fetchRequest setEntity:entity];
     NSArray *fetchedObjects = [context executeFetchRequest:fetchRequest error:&error];
-    for (FailedBankInfo *info in fetchedObjects) {
-        NSLog(@"Name: %@", info.name);
-        FailedBankDetails *details = info.details;
-        NSLog(@"Zip: %@", details.zip);
+    for (FailedBankAbstract *info in fetchedObjects) {
+        NSLog(@"class: %@ country=%@", info.class,info.country);
     }
     
     // Override point for customization after application launch.
-    UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
-    FBCDMasterViewController *controller = (FBCDMasterViewController *)navigationController.topViewController;
-    controller.managedObjectContext = self.managedObjectContext;
+//    UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
+//    FBCDMasterViewController *controller = (FBCDMasterViewController *)navigationController.topViewController;
+//    controller.managedObjectContext = self.managedObjectContext;
     return YES;
 }
 							
